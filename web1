@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> HTML Teste </title>
+	<meta charset="UTF-8">
+    <meta hhtp-equiv="X-UA-Compatible" content="IE-edge"> 
+</head>
+<body>
+	<em><strong>HTML</strong> <u>TEST PAGE</u></em><br>
+	<!--- Lorem Ipsum; home host = adobe color --->
+	<h1> OIA O TEXTO </h1>
+	<p><strong>TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO</strong><br>
+	<em>TEXTO TEXTO TEXTO <strike>TEXTO</strike> TEXTO TEXTO TEXTO TEXTO</em></p>
+	<hr width=50% color='#1701FF'/>
+	<!--- UPAR TUDO NO DRIVE DO EMAIL @SOULASALLE --->
+	
+</body>
+</html>
